@@ -15,8 +15,10 @@
 	<name>RestAPI-data</name>
 	<description>Demo project for Spring Boot</description>
 
+
 	<properties>
 		<java.version>1.8</java.version>
+		<start-class>io.hk.rest.RestApiDataApplication</start-class>
 	</properties>
 
 	<profiles>
